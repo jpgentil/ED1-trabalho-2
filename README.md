@@ -12,18 +12,6 @@ Este projeto acadêmico de Estrutura de Dados implementa e compara o desempenho 
 └── README.md       # Este arquivo
 ```
 
-### Como Compilar e Executar
-
-### Compilação
-```bash
-gcc main.c lista.c -o programa -O2
-```
-
-### Execução
-```bash
-./programa
-```
-
 ### Funcionalidades
 
 ### Menu Principal
@@ -118,7 +106,3 @@ Este projeto demonstra:
 - Análise empírica de complexidade computacional
 - Diferenças de desempenho entre algoritmos O(n²) e O(n log n)
 - Importância da ordenação para otimização de buscas
-
-## 📄 Licença
-
-Projeto acadêmico para fins educacionais.
